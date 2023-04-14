@@ -1,0 +1,11 @@
+Servlet/UpdateAbout.class
+Servlet/DeleteBrand.class
+com/mycompany/admin/resources/JakartaEE91Resource.class
+Servlet/DeleteProducts.class
+com/mycompany/admin/JakartaRestConfiguration.class
+Servlet/AddProduct.class
+Servlet/AddBrand.class
+Servlet/AddCategory.class
+Servlet/UpdateWeb.class
+Servlet/DeleteCategory.class
+Servlet/Servlet.class
